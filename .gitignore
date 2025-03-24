@@ -1,0 +1,17 @@
+#Ignore log file 
+*.log 
+
+#Ignore environment configuration files
+*.env
+
+#Ignore Nodes.js dependencies
+nodes_modulus/
+
+#Ignore compiled binary files
+*.exe
+*.dll
+*.out 
+
+#Ignore system files
+.DS_Store
+Thumbs.db
